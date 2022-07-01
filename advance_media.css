@@ -330,4 +330,111 @@ font-weight: 500;
       }
 }
 
+
+@media (min-width:1920px){
+/*homepage Css Start*/
+.home-para-text {
+    font-size: 22px;
+    line-height: 42px;
+}
+
+.column-44 {
+    padding-left: 250px;
+}
+
+.column-45 {
+    padding-right: 230px;
+}
+
+.img-hover, img-hover-1, img-hover-2 {
+    display: none;
+}
+
+.sec-5-para {
+    font-size: 22px;
+    line-height: 42px;
+}
+
+.column-36 {
+    text-align: right;
+}
+.column-38 {
+    text-align: left;
+}
+
+/*homepage Css End*/
+
+/*About Css Start*/
+
+.about-para{
+    font-size: 22px;
+    line-height: 42px;
+}
+
+.column-10 {
+    padding-top: 100px;
+}
+/*About Css End*/
+
+/*Team Css Start*/
+
+.team-para {
+
+    font-size: 22px;
+    line-height: 42px;
+}
+
+/*Team Css End*/
+
+/*Services Css Start*/
+.services-para {
+    font-size: 22px;
+    line-height: 42px;
+}
+
+.services-provide-col {
+padding: 60px 40px 58px;
+}
+
+.services-provide-col-1 {
+    padding: 45px 40px;
+}
+
+.services-sec-row-3 {
+    padding-left: 145px;
+}
+
+/*Services Css End*/
+
+/*Landing Page Css Start*/
+.home-para-text {
+    font-family: 'circular book';
+    font-size: 22px;
+    color: #535353;
+    line-height: 42px;
+}
+
+.process-col {
+    padding: 60px 240px 40px;
+}
+
+.design-box p {
+    font-family: 'circular book';
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 0;
+    color: #535353;
+}
+
+.column-33 {
+    text-align: right;
+}
+
+.column-35 {
+    text-align: left;
+}
+
+/*Landing Page Css End*/
+}
+
 </style>
