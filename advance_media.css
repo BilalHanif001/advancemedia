@@ -433,8 +433,21 @@ padding: 60px 40px 58px;
 .column-35 {
     text-align: left;
 }
-
 /*Landing Page Css End*/
+    
+ /*Contact Page Css Start*/
+
+.contact-form-col {
+    width: 600px;
+    height: 472px;
+    margin-left: 155px;
+}
+
+.contact-para {
+    font-size: 22px;
+    line-height: 42px;
+}
+/*Contact Page Css End*/
 }
 
 </style>
