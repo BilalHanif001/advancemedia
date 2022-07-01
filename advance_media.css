@@ -338,12 +338,8 @@ font-weight: 500;
     line-height: 42px;
 }
 
-.column-44 {
-    padding-left: 250px;
-}
-
-.column-45 {
-    padding-right: 230px;
+.process-col {
+    padding: 60px 240px 40px;
 }
 
 .img-hover, img-hover-1, img-hover-2 {
